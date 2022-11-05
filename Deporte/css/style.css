@@ -1,0 +1,23 @@
+
+ td, tr {
+    border: 2px solid rgb(117, 126, 225);
+    border-collapse: collapse;
+  
+}
+table {
+    border: 5px;
+    border-style: outset;
+    border-collapse: collapse;
+}
+th {
+    border: 3px solid rgb(102, 181, 196);
+    border-collapse: collapse;
+    background-color:rgb(45, 71, 59);
+    color: rgb(148, 197, 174);
+}
+.dep-2 {
+background-color: rgb(85, 150, 119);
+}
+.dep-1, .dep-3 {
+      background-color: rgb(148, 197, 174);
+}
