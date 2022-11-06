@@ -1,0 +1,13 @@
+p {
+   display: flex;
+   
+}
+li {
+    margin: 2px;
+}
+.orden-alfa {
+    list-style-type: lower-alpha;
+}
+.num-romanos {
+    list-style-type: upper-roman;
+}
