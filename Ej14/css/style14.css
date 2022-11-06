@@ -1,0 +1,30 @@
+body {
+   text-align: center;
+   margin: 0;
+}
+#container {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.tabla {
+    border: 2px solid rgb(250, 230, 230);
+    border-collapse: collapse;
+    width: 54vw;
+    position: absolute;
+    text-align: center;
+    top: 35%;
+    left: 23%;
+}
+th {
+    border: 2px solid rgb(232, 215, 215); 
+    width: 60vw;
+}
+.primero {
+    text-align: center;
+    background-color: aliceblue;
+}
+.segundo {
+    text-align: center;
+    background-color: rgb(231, 227, 138);
+}
