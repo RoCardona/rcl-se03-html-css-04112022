@@ -1,11 +1,21 @@
 table {
     border: 5px outset rgb(52, 52, 176);
     border-collapse: collapse;
-    width: 40vw;
+    width: 50vw;
 }
 th, td {
-    border: 2px solid rgb(52, 52, 176);
+    border: 3px groove rgb(52, 52, 176);
 }
 .center {
     text-align: center;
+}
+th {
+    background-color: rgb(19, 70, 53);
+    color: rgb(101, 209, 173)
+}
+.color-oscuro {
+background-color: rgb(35, 185, 135);
+}
+.color-claro {
+background-color: rgb(162, 239, 213);
 }
