@@ -1,15 +1,16 @@
-
+ /* IMAGEN DE FONDO */
 .imagen {
   width: 60vw;
   height: 70vh;
   position: relative;
   left: 20%;
-}
+} 
 .principal {
   width: 70vw;
   height: 60vh;
   text-align: center;
 }
+/* DIV CON LOS 4 DIV IMAGENES DENTRO */
 #primero {
   width: 57vw;
   height: 17vh;
@@ -38,6 +39,7 @@
   border: black solid;
   margin: 5px;
 }
+/* DIV CON LOS 4 DIV IMAGENES DENTRO */
 #segundo {
   width: 57vw;
   height: 17vh;
@@ -50,7 +52,15 @@
   margin-top: -400px;
   justify-content: space-around;
 }
-.e,.g {
+.e {
+  width: 10vw;
+  height: 15vh;
+  flex-direction: column;
+  border: black solid;
+  margin: 5px;
+  background-image: url(../img/dh_2.jpg);
+}
+.g {
   width: 10vw;
   height: 15vh;
   flex-direction: column;
@@ -68,6 +78,7 @@ img {
   border: black solid;
   margin: 5px;
 }
+/* DIV CON LOS 4 DIV IMAGENES DENTRO */
 #tercero {
   width: 57vw;
   height: 17vh;
