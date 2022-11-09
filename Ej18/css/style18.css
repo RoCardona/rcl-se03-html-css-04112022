@@ -55,14 +55,14 @@
   background-size: auto;
   background-repeat: repeat-x;
 }
-#nubes2 {
+.nubes2 {
   margin-left: 1px;
-  margin-top: -24px;
-  background-image: url('../img/f03.png');
-  background-attachment: scroll;
-  background-position: top;
-  background-size: auto;
-  background-repeat: repeat-x;
+  margin-top: 10px;
+ 
+}
+.central2 {
+  margin-left: -3px;
+  margin-top: 81px;
 }
 
 /* TERCER BLOQUE DE IMAGENES MARIO */
