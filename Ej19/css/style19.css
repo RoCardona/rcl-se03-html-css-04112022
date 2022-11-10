@@ -1,0 +1,30 @@
+table {
+    border: 2px solid black;
+}
+th {
+text-align: center;
+border: 2px solid black;
+width: 4vw;
+}
+.init {
+text-align: center;
+border: 2px solid black;
+width: 15vw;  
+text-align: left;
+}
+td {
+border: 2px solid black;
+width: 4vw;
+text-align: left;
+}
+.init-e {
+  text-align: center;
+border: 2px solid black;
+width: 15vw;  
+text-align: left;
+}
+.left {
+text-align: left;
+border: 2px solid black;
+width: 4vw;
+}
