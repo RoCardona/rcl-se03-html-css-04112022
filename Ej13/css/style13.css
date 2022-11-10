@@ -1,0 +1,28 @@
+h4 {
+    text-align: center;
+    margin: 2px;
+}
+table, th{
+    border: 2px outset gainsboro;
+    width: 98vw;
+}
+.celda1 {
+    text-align: center;
+    background-color: rgb(110, 231, 110);
+}
+.celda2 {
+    text-align: left;
+    background-color: rgb(195, 239, 224);
+}
+.celdas-3 {
+    text-align: center;
+    color: red;
+}
+.celdas-2 {
+    text-align: center;
+}
+.celda6 {
+    text-align: right;
+    vertical-align: bottom;
+    background-color: pink;
+}

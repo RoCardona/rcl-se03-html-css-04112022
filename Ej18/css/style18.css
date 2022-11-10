@@ -1,0 +1,102 @@
+.container {
+  width: 195vw;
+  height: 95vh;
+}
+/* PRIMER BLOQUE DE IMAGENES MARIO */
+.mario1 {
+  /* DAR FORMATO AL CUERPO DE LA PRIMERA */
+  width: 14vw;
+  height: 14vh;
+  background-color: rgb(161, 161, 241);
+  border: 2px solid blue;
+  top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  margin-right: 0px;
+  margin-left: -20px;
+  margin-top: -150px;
+  /* AÑADIR EL SUELO */
+  background-image: url('../img/f01.png');
+  background-attachment: scroll;
+  background-position: bottom;
+  background-size: auto;
+  background-repeat: repeat-x;
+}
+/* POSICIONAMIENTO DEL RESTO DE IMAGENES */
+.nubes1 {
+  margin-left: 1px;
+  margin-top: -18px;
+}
+.central1 {
+  margin-left: -3px;
+  margin-top: -75px;
+}
+
+/* SEGUNDO BLOQUE DE IMAGENES MARIO */
+.mario2 {
+  width: 25vw;
+  height: 40vh;
+  background-color: rgb(161, 161, 241);
+  border: 5px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 48%;
+  left: 40%;
+  margin-right: 0px;
+  margin-left: -60px;
+  margin-top: -150px;
+  background-image: url('../img/f01.png');
+  background-attachment: scroll;
+  background-position: bottom;
+  background-size: auto;
+  background-repeat: repeat-x;
+}
+.frase2 {
+  margin-top: -75px;
+  margin-left: 5px;
+}
+.nubes2 {
+  margin-left: 1px;
+  margin-top: 20px;
+ /* background-image: url('../img/f03.png');
+  background-position: top;
+  background-size: auto;
+  background-repeat: repeat-x; */
+}
+.central2 {
+  margin-right: 100px;
+  margin-top: 121px;
+}
+
+/* TERCER BLOQUE DE IMAGENES MARIO */
+.mario3 {
+  width: 14vw;
+  height: 14vh;
+  background-color: rgb(161, 161, 241);
+  border: 2px solid blue;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 95%;
+  left: 30%;
+  margin-right: 0px;
+  margin-left: -20px;
+  margin-top: -170px;
+  background-image: url('../img/f01.png');
+  background-attachment: scroll;
+  background-position: bottom;
+  background-size: auto;
+  background-repeat: repeat-x;
+}
+.nubes3 {
+  margin-left: 5px;
+  margin-top: -18px;
+}
+.central3 {
+  margin-left: -3px;
+  margin-top: -75px;
+}
